@@ -1,0 +1,4 @@
+modID,fieldID,fieldName,fieldType,defaultValue,secondaryValue,fieldDescription,minValue,maxValue,tab
+,excessThreshold,Excess Threshold,Int,25,,Sell any weapon or LPC above this amount from your cargo.,1,999,
+,autoSell,Auto-Sell Excess,Boolean,true,,If enabled automatically sells every time you visit a market.,,,
+,sellMarket,Sell To,Radio,Open Market,"Open Market,Black Market",Which market to sell excess to.,,,

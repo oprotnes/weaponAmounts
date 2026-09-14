@@ -1,0 +1,5 @@
+{
+    "excessThreshold": 25,
+    "autoSell": true,
+    "sellMarket": "OPEN_MARKET"
+}
