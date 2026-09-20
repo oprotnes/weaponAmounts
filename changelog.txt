@@ -1,2 +1,6 @@
+0.2.0
+- Added versioning for LunaLib etc
+- Added a toggle for using separate thresholds for known/unknown blueprints.
+
 0.1.0
 - First version.
