@@ -1,7 +1,8 @@
 modID,fieldID,fieldName,fieldType,defaultValue,secondaryValue,fieldDescription,minValue,maxValue,tab
 ,excessThreshold,Excess Threshold,Int,25,,Sell any weapon or fighter wing above this amount in your cargo hold. Used unless Use Separate Blueprint Thresholds is on.,1,999,
-,autoSell,Auto-Sell Excess,Boolean,TRUE,,If enabled automatically sells excess weapons/fighters every time you open a market.,,,
+,autoSell,Auto-Sell Excess,Boolean,true,,If enabled automatically sells excess weapons/fighters every time you open a market.,,,
 ,sellMarket,Sell To,Radio,Open Market,"Open Market,Black Market",Which submarket to sell excess items to.,,,
-,useSeparateBlueprintThresholds,Use Separate Blueprint Thresholds,Boolean,FALSE,,If enabled ignores Excess Threshold and uses the two thresholds below instead depending on whether you know the item's blueprint.,,,
+,useSeparateBlueprintThresholds,Use Separate Blueprint Thresholds,Boolean,false,,If enabled ignores Excess Threshold and uses the two thresholds below instead depending on whether you know the item's blueprint.,,,
 ,knownBlueprintThreshold,Known Blueprint Threshold,Int,25,,Keep at least this many of items whose blueprint you know. Can go down to 0 since you can produce more. Only used when the toggle above is on.,0,999,
 ,unknownBlueprintThreshold,Unknown Blueprint Threshold,Int,25,,Keep at least this many of items whose blueprint you don't know. Only used when the toggle above is on.,0,999,
+,considerMountedWeapons,Consider Mounted Weapons,Boolean,false,,If enabled includes weapons currently mounted on your fleet's ships when calculating owned totals. Note: the in-game item tooltip does NOT include mounted weapons in its own count.,,,

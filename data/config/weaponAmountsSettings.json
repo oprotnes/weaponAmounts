@@ -1,8 +1,0 @@
-{
-    "excessThreshold": 25,
-    "autoSell": true,
-    "sellMarket": "OPEN_MARKET",
-    "useSeparateBlueprintThresholds": false,
-    "knownBlueprintThreshold": 25,
-    "unknownBlueprintThreshold": 25
-}

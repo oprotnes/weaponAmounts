@@ -1,3 +1,7 @@
+0.2.1
+- LunaLib is now a dependency, use the mod menu, makes it all easier.
+- Added toggle to consider mounted weapons, or not.
+
 0.2.0
 - Added versioning for LunaLib etc
 - Added a toggle for using separate thresholds for known/unknown blueprints.
