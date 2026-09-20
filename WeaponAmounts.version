@@ -1,0 +1,13 @@
+{
+	"masterVersionFile":"https://raw.githubusercontent.com/oprotnes/weaponAmounts/main/WeaponAmounts.version",
+	"modName":"WeaponAmounts",
+	"modThreadId":36023,
+	"modVersion": {
+		"major":0,
+		"minor":2,
+		"patch":0
+	},
+	"starsectorVersion":"0.98a-RC8",
+	"directDownloadURL":"https://github.com/oprotnes/weaponAmounts/releases/download/alpha/weaponAmounts.7z",
+	"changelogURL":"https://raw.githubusercontent.com/oprotnes/weaponAmounts/main/changelog.txt"
+}
