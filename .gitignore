@@ -2,7 +2,6 @@ out/
 .idea/
 *.iml
 vmargs.txt
-jars/*.jar
 .run/
 src/
 .github/
