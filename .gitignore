@@ -1,0 +1,10 @@
+out/
+.idea/
+*.iml
+vmargs.txt
+jars/*.jar
+.run/
+src/
+.github/
+weaponAmounts.iml
+weaponAmounts.7z
